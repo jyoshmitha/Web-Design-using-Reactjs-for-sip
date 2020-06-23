@@ -1,4 +1,6 @@
 # Web-Design-using-Reactjs-for-sip
-this repository contains web design using reactjs
-#day 02#
-##learn about git and github##
+This repository contains web design using reactjs
+
+#Day 02
+
+##Introduction to git and github
